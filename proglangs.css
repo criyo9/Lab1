@@ -1,0 +1,31 @@
+body {
+  padding-left: 11em;/*Avstand fra venstre marg*/
+  font-family: Arial, Verdana, Tahoma; /*Skrifttype*/
+        Times, serif;
+  color: Black;/*Skriftfarge*/
+  background-color: #086FA1 }/*Farge på bakgrunn*/
+ul.navigering {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  position: absolute;
+  top: 2em;/*Avstand fra topmarg*/
+  left: 1em;g
+  width: 9em }/*Bredde på menyen*/
+h1 {/*Denne styler innhold i <h1>/Overskrift*/
+  font-family: Helvetica, Geneva, Arial,
+        SunSans-Regular, sans-serif }
+ul.navigering li {
+  background: white;
+  margin: 0.5em 0;
+  padding: 0.3em;
+  border-right: 1em solid black }
+ul.navigering a {/*Denne styler teskten i Menyen til venstre*/
+  text-decoration: none }
+a:link {/*Teksten i Menyen til venstre er blå når man ikke har klikket på den....*/
+  color: pink }
+a:visited 
+  color: red }
+  margin-top: 1em;
+  padding-top: 1em;
+  border-top: thin dotted }
