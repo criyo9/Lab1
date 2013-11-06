@@ -1,34 +1,34 @@
+ï»¿
 
-
-							Kontrollspørsmål
+							KontrollspÃ¸rsmÃ¥l
 									
-0)	JavaScript kan brukes blant annet til å få hendelser til å reagere.
-	Man kan for eksempel kode en knapp slik at den reagerer når vi trykker på den.
-	Knappen kan reagere for å eksempel ved å vise informasjon.
-	Et bedre eksempel er i oppgave 2, der vi får en reaksjon under «rullegardinen» når vi velger et programmeringsspråk.
+0)	JavaScript kan brukes blant annet til Ã¥ fÃ¥ hendelser til Ã¥ reagere.
+	Man kan for eksempel kode en knapp slik at den reagerer nÃ¥r vi trykker pÃ¥ den.
+	Knappen kan reagere for Ã¥ eksempel ved Ã¥ vise informasjon.
+	Et bedre eksempel er i oppgave 2, der vi fÃ¥r en reaksjon under Â«rullegardinenÂ» nÃ¥r vi velger et programmeringssprÃ¥k.
 	Dette er en av tingene JavaScript kan brukes til.
-	En annen ting er å manipulere eller endre innholdet i en HTML fil.
-	Manipuleringen kan være alt fra å endre farger, stiler eller bilder.
+	En annen ting er Ã¥ manipulere eller endre innholdet i en HTML fil.
+	Manipuleringen kan vÃ¦re alt fra Ã¥ endre farger, stiler eller bilder.
 
 1)	CSS ID er en identitet som er unik og kan brukes kun en gang i en HTML fil.
-	Det vil si at når man først har brukt den CSS ID-en, så kan man ikke bruke den igjen selv om man skulle ønske.
-	Mens CSS ID er ment til å brukes bare en gang, kan Class elementer brukes omvendt.
+	Det vil si at nÃ¥r man fÃ¸rst har brukt den CSS ID-en, sÃ¥ kan man ikke bruke den igjen selv om man skulle Ã¸nske.
+	Mens CSS ID er ment til Ã¥ brukes bare en gang, kan Class elementer brukes omvendt.
 	Med Class elementer, kan man ha en gjentakelse i HTML.
 	Med andre ord, er CSS ID som et engangs passord og Class elementer et vanlig selvopprettet passord.
 	Dette er forskjellen.
 
 2)	Jeg syns at begge versjonene fungerer likt.
-	Man kan få alle programmeringsspråkene til å reagere likt.
+	Man kan fÃ¥ alle programmeringssprÃ¥kene til Ã¥ reagere likt.
 	Men i forhold til versjonen i deloppgave 0, er versjonen i 1 mye enklere og tar utrolig lite plass i nettsiden.
-	Istedenfor en uendelig lang list, så har man kun en liten boks å selektere språkene fra.
-	Så selv om de kan ha samme funksjon, så syns jeg nok at versjonen i deloppgave 1 er veldig plassparende og gjør nettsiden mer profesjonelt.
+	Istedenfor en uendelig lang list, sÃ¥ har man kun en liten boks Ã¥ selektere sprÃ¥kene fra.
+	SÃ¥ selv om de kan ha samme funksjon, sÃ¥ syns jeg nok at versjonen i deloppgave 1 er veldig plassparende og gjÃ¸r nettsiden mer profesjonelt.
 	Jeg hadde brukt den fremfor versjonen i 0.
 
 
-3)	Ved å plassere programmeringsspråkene i en alfabetisk rekkefølge, i tillegg til at man kan finne frem raskere ved å trykke på et alfabet.
-	For å få dette til, har de en ramme med alfabet som man kan klikke seg på.
+3)	Ved Ã¥ plassere programmeringssprÃ¥kene i en alfabetisk rekkefÃ¸lge, i tillegg til at man kan finne frem raskere ved Ã¥ trykke pÃ¥ et alfabet.
+	For Ã¥ fÃ¥ dette til, har de en ramme med alfabet som man kan klikke seg pÃ¥.
 
-4)	En «div» tagg er et element som definerer en splittelse/divisjon i en HTML fil.
-	Med taggen kan man for eksempel splitte en setning fra en annen på en måte at den ene har en annen farge enn den andre.
-	En «span» tagg derimot kan gjøre slik at man får frem ulike farger i samme setning
-	Altså for eksempel en farge på et ord og annen farge på neste ord.
+4)	En Â«divÂ» tagg er et element som definerer en splittelse/divisjon i en HTML fil.
+	Med taggen kan man for eksempel splitte en setning fra en annen pÃ¥ en mÃ¥te at den ene har en annen farge enn den andre.
+	En Â«spanÂ» tagg derimot kan gjÃ¸re slik at man fÃ¥r frem ulike farger i samme setning
+	AltsÃ¥ for eksempel en farge pÃ¥ et ord og annen farge pÃ¥ neste ord.
